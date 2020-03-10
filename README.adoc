@@ -1,4 +1,5 @@
 = Simple Tasks
+== This is a gradle project.
 
 === Write a function that if given sorted array of integers, it will remove all the duplicates and return the unique list.
 
